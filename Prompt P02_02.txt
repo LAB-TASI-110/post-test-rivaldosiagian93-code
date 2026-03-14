@@ -1,0 +1,2 @@
+buat lah sebuah program bahasa c yang bisa menetukan total stok untuk katergori barang yang di minta ,data stok di simpan pada library dan tersusun rapi dengan pemisahan kelompok barang dengan inputan data (N), deret stok (s1,s2,,,sn),lalu kategori
+program tersebuat memisahakn per kategori dengan jumlah total data
